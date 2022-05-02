@@ -9,3 +9,4 @@
 - Akhil Punia [Github](https://github.com/Ak216puniA)
 - Vaishnavi Virat Dave [Github](https://github.com/DaveVaishnavi)
 - Mehak Sharma[Github](https://github.com/Mehak-4545)
+- Anupriya Det [Github](https://github.com/Anupriya-Dey)
